@@ -1,0 +1,1 @@
+python-telegram @ git+git://github.com/snezhnyikorol/python-telegram.git@698dac8bc8703198bb4f571550b7f97a79a8ced5
